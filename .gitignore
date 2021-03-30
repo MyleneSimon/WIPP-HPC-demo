@@ -1,0 +1,5 @@
+**/.DS_Store
+
+.vagrant
+vagrant/etc/join.sh
+vagrant/etc/config
